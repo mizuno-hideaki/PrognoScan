@@ -5,3 +5,4 @@ Description: To take advantage of public resources in full, a database named "Pr
 
 Conclusion: PrognoScan provides a powerful platform for evaluating potential tumor markers and therapeutic targets and would accelerate cancer research. The database is publicly accessible at http://www.prognoscan.org.
 
+PubMed: https://pubmed.ncbi.nlm.nih.gov/19393097/
